@@ -1,0 +1,5 @@
+ml model : 
+inputs : price range 
+	 neighbourhood
+	 borough  
+output : show the results 
