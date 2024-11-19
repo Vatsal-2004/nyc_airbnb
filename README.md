@@ -18,6 +18,9 @@ Flow chart:
 
 Conclusions: 
 •	Most of the listings in NYC are in Manhattan and Brooklyn. Both of them have more than 20,000 listings, which are over 85% of the overall listings. The neighbourhood with the most listings is Williamsburg in Brooklyn.  
+density plot of the listings
+![image](https://github.com/user-attachments/assets/10e69730-9239-458e-969c-11910b959a59)
+
 •	Around 52% of listings are entire home/apt, and 45% are private room. Only 2% are shared rooms. Among different neighbourhood groups, Brooklyn has the most private rooms, while Manhattan has the most entire homes/apts. 
 •	The availability is lower in Brooklyn and Manhattan compared to other locations. 
 •	Some words are quite popular in the name such as 'private', 'beautiful', 'cozy', 'modern', and 'quiet' 
